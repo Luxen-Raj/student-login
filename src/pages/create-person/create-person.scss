@@ -1,0 +1,35 @@
+page-create-person {
+    .redclass {
+        color: red;
+        padding: 1px 30px;
+    }
+    b, strong {
+        font-weight: bold;
+        color: red;
+    }
+     
+  .dr_pro{
+    width: auto;
+    max-width: 50%;
+    height: auto;
+    max-height: 84%;
+    border-radius: 5%;
+}
+
+.div-icon{
+    // background-color: #ff0000;        
+    margin-left: 120px;
+    margin-top: -25px;
+    
+    ion-icon{            
+        padding: 8px 9px;
+        background-color: #6574cfbd;
+        border-radius: 50%;
+        width: 35px;
+        height: 35px;
+        font-size: 20px;
+        color: #fff;       
+    } 
+}
+
+}
